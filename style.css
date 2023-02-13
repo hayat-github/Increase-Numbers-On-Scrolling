@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.static {
+    height: 100vh;
+    background-color: antiquewhite;
+}
+.boxs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.box {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(62, 152, 248);
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    font-size: 50px;
+}
+.first-section {
+    height: 100vh;
+    background-color: rgb(255, 247, 136);
+}
+.second-section {
+    height: 100vh;
+    background-color: darkorange;
+}
+
+
+
